@@ -1,0 +1,1 @@
+source /home/ubuntu/virtualenv/python2.4/bin/activate
